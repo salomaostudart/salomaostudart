@@ -16,6 +16,7 @@ QA Analyst focado em testes manuais e automacao. Em transicao de carreira para a
 | [Portfolio](https://salomaostudart.github.io/portfolio/) | Site pessoal |
 | [Landing Restaurante](https://salomaostudart.github.io/landing-restaurante/) | Landing page para restaurante |
 | [Landing Advogado](https://salomaostudart.github.io/landing-advogado/) | Landing page para escritorio de advocacia |
+| [Landing Advogado #2](https://salomaostudart.github.io/landing-advogado-2/) | Landing page para escritorio de advocacia (tema claro) |
 | [Landing Barbearia](https://salomaostudart.github.io/landing-barbearia/) | Landing page para barbearia |
 
 ## Contato
