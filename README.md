@@ -1,5 +1,8 @@
 # Salomão Studart
 
+> **Deps:** Links para portfolio + 4 landings + qa-demo | Se URL mudar: link quebrado
+> **Registry:** hq/reference/dependencias.md
+
 Developer + QA Analyst focado em AI Automation. 2+ anos de experiência com Python, SQL e pipelines de dados (AWS S3/Transcribe). Stack: Python, SQL, HTML/CSS/JS, AWS, Cloudflare Workers/Pages, Supabase, Claude Code.
 
 ## Skills
